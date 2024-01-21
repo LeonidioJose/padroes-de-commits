@@ -60,6 +60,7 @@ git commit -m ":tada: Meu primeiro commit"
 | Commit inicial             | :tada: `:tada:`                               |
 | Tag de versão              | :bookmark: `:bookmark:`                       |
 | Novo recurso               | :sparkles: `:sparkles:`                       |
+| Polida/Otimização               | ⏱ `:stopwatch:`                         |
 | Bugfix                     | :bug: `:bug:`                                 |
 | Documentação               | :books: `:books:`                             |
 | Testes                     | :rotating_light: `:rotating_light:`           |
